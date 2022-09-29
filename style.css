@@ -1,0 +1,48 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1 {
+    background-color: #00cc00;
+    color: #ffffff;
+    text-align: center;
+}
+.ej1 {
+    background-color: #00cc00;
+}
+.ej2 {
+    background-color: #ffff00;
+}
+.ej2 p {
+    font-size: 10px;
+    color: #ff0000;
+}
+.ej3 {
+    text-align: center;
+}
+.ej p {
+    font-size: 14px;
+}
+.ej3 p:nth-child(even) {
+    color: #0000ff;
+    background-color: #ff0000;
+}
+.ej3 p:nth-child(odd) {
+    color: #7fffd4;
+    background-color: #ffff00;
+}
+.ej4 .p2 {
+    font-size: 1.5em;
+}
+.ej4 .p3 {
+    color: #ff0000;
+}
+.ej4 .p4 {
+    color: #0000ff;
+    font-size: 2em;
+}
+.ej5 {
+    background-color: #7fffd4;
+}
+.index a {
+    text-decoration: none;
+}
